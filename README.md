@@ -1,5 +1,5 @@
 ## Shell in C
-Small shell-like program that emulates the following commands:
+Shell-like program that emulates the following commands:
 - cd 
 - umask
 - time
